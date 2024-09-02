@@ -1,6 +1,6 @@
 {
   "name": "custom-module-schema",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "A custom schematic for generating modules with a specific folder structure",
   "main": "./dist/index.js",
   "schematics": "./dist/collection.json",
