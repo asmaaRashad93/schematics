@@ -1,0 +1,10 @@
+{
+    "$schema": "node_modules/@angular-devkit/schematics/collection-schema.json",
+    "schematics": {
+      "custom-module": {
+        "description": "A custom module schematic",
+        "factory": "./custom-module/index#customModule"
+      }
+    }
+  }
+  
