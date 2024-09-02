@@ -1,5 +1,5 @@
 import { Module } from '@nestjs/common';
-import { <%= classify(name) %>Controller } from './controllers/us<%= name %>.controller';
+import { <%= classify(name) %>Controller } from './controllers/<%= name %>.controller';
 import { <%= classify(name) %>Service } from './services/<%= name %>.service';
 @Module({
   imports: [],
